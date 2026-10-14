@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickNote</string>
+    <string name="search_notes">Search notes, tags, checklists…</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="folders">Folders</string>
+    <string name="trash">Trash</string>
+    <string name="settings">Settings</string>
+</resources>
